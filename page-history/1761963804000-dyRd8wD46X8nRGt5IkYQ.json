@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "branding": {
+    "name": "ai game builder",
+    "primary": "#2d8ceb",
+    "secondary": "#5c6beb",
+    "accent": "#1eaed9",
+    "background": "#ffffff",
+    "text": "#1a1a1a",
+    "tone": "friendly"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Introducing",
+      "headline": "Your AI-Powered Game Studio",
+      "subheadline": "Turn ideas into games, no coding required.",
+      "cta": {
+        "label": "View on Utopia Marketplace →",
+        "href": "https://utopia.so/projects/dyRd8wD46X8nRGt5IkYQ"
+      },
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none"
+      },
+      "id": "hero-1"
+    },
+    {
+      "type": "problem",
+      "headline": "Game Development, Simplified",
+      "bullets": [
+        "Overcome scope & complexity effortlessly",
+        "Translate ideas into mechanics without the guesswork",
+        "Seamless asset generation & integration"
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none"
+      },
+      "id": "problem-2"
+    },
+    {
+      "type": "solution",
+      "headline": "AI at Your Service",
+      "body": "Our AI-powered builder generates playable games from your ideas, handling everything from graphics to mechanics.",
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none"
+      },
+      "id": "solution-3"
+    },
+    {
+      "type": "features",
+      "headline": "Features That Empower",
+      "items": [
+        {
+          "title": "Intuitive Interface",
+          "description": "Prototype and customize with ease."
+        },
+        {
+          "title": "Auto-generated Assets",
+          "description": "Graphics, sounds, and levels created for you."
+        },
+        {
+          "title": "Export Anywhere",
+          "description": "Ready for Unity, Godot, and more."
+        }
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none"
+      },
+      "id": "features-4"
+    },
+    {
+      "type": "benefits",
+      "headline": "Build, Play, Share",
+      "bullets": [
+        "Rapidly create and iterate on game concepts",
+        "No coding or design expertise required",
+        "Engage and grow your community with unique games"
+      ],
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none"
+      },
+      "id": "benefits-5"
+    },
+    {
+      "type": "cta",
+      "headline": "Ready to Revolutionize Game Creation?",
+      "cta": {
+        "label": "Start Building Now →",
+        "href": "https://utopia.so/projects/dyRd8wD46X8nRGt5IkYQ"
+      },
+      "secondaryCta": {
+        "label": "Learn More",
+        "href": "https://utopia.so/projects/dyRd8wD46X8nRGt5IkYQ"
+      },
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none"
+      },
+      "id": "cta-6"
+    }
+  ],
+  "goal": "lead-collection"
+}
